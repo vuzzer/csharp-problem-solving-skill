@@ -1,0 +1,15 @@
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/TrappingRainWater/bin/Debug/net7.0/TrappingRainWater
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/TrappingRainWater/bin/Debug/net7.0/TrappingRainWater.deps.json
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/TrappingRainWater/bin/Debug/net7.0/TrappingRainWater.runtimeconfig.json
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/TrappingRainWater/bin/Debug/net7.0/TrappingRainWater.dll
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/TrappingRainWater/bin/Debug/net7.0/TrappingRainWater.pdb
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/TrappingRainWater/obj/Debug/net7.0/TrappingRainWater.csproj.AssemblyReference.cache
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/TrappingRainWater/obj/Debug/net7.0/TrappingRainWater.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/TrappingRainWater/obj/Debug/net7.0/TrappingRainWater.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/TrappingRainWater/obj/Debug/net7.0/TrappingRainWater.AssemblyInfo.cs
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/TrappingRainWater/obj/Debug/net7.0/TrappingRainWater.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/TrappingRainWater/obj/Debug/net7.0/TrappingRainWater.dll
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/TrappingRainWater/obj/Debug/net7.0/refint/TrappingRainWater.dll
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/TrappingRainWater/obj/Debug/net7.0/TrappingRainWater.pdb
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/TrappingRainWater/obj/Debug/net7.0/TrappingRainWater.genruntimeconfig.cache
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/TrappingRainWater/obj/Debug/net7.0/ref/TrappingRainWater.dll

@@ -1,0 +1,15 @@
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/Palindrome/bin/Debug/net6.0/Palindrome
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/Palindrome/bin/Debug/net6.0/Palindrome.deps.json
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/Palindrome/bin/Debug/net6.0/Palindrome.runtimeconfig.json
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/Palindrome/bin/Debug/net6.0/Palindrome.dll
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/Palindrome/bin/Debug/net6.0/Palindrome.pdb
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/Palindrome/obj/Debug/net6.0/Palindrome.csproj.AssemblyReference.cache
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/Palindrome/obj/Debug/net6.0/Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/Palindrome/obj/Debug/net6.0/Palindrome.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/Palindrome/obj/Debug/net6.0/Palindrome.AssemblyInfo.cs
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/Palindrome/obj/Debug/net6.0/Palindrome.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/Palindrome/obj/Debug/net6.0/Palindrome.dll
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/Palindrome/obj/Debug/net6.0/refint/Palindrome.dll
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/Palindrome/obj/Debug/net6.0/Palindrome.pdb
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/Palindrome/obj/Debug/net6.0/Palindrome.genruntimeconfig.cache
+/Users/macbookpro/Documents/career/c#/problem-solving-c#/Palindrome/obj/Debug/net6.0/ref/Palindrome.dll
